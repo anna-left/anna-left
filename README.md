@@ -66,6 +66,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+<img src="https://komarev.com/ghpvc/?username=anna-left&style=flat-square&color=red&label=***" alt=""/>
+
 <!--### Hi there 👋
 
 https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
