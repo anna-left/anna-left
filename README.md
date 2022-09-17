@@ -1,11 +1,11 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/anna-rybakova-05bb60217/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/anna-rybakova-05bb60217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/AnnaFavor" target="_blank">
+  <a target="_blank" href="https://t.me/AnnaFavor"">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/anna-left" target="_blank">
+  <a target="_blank" href="https://www.codewars.com/users/anna-left">
     <img src="https://img.shields.io/badge/Сodewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
